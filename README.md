@@ -1,87 +1,128 @@
-<h1 align="center">Hi, I'm Levis Nyingi 👋</h1>
-
+<!-- Banner -->
 <p align="center">
-  <strong>Full-Stack Developer · Nairobi, Kenya</strong><br/>
-  Building scalable web & mobile apps · Available for hire
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=200&section=header&text=Levis%20Nyingi&fontSize=40&fontColor=ffffff" />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <a href="https://www.levise.top/" target="_blank">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.levise.top/blog" target="_blank">✍️ Blog</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/levisnyingi" target="_blank">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:me@levise.top">📩 Email</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=1E90FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Scalable+Web+%26+Mobile+Apps;React+%7C+Next.js+%7C+Node.js+%7C+Flutter;Open+to+Remote+Work+Worldwide" />
 </p>
 
 ---
 
-### About Me
-
-I'm a full-stack developer with 5+ years of experience designing and shipping production-grade web and mobile applications. I work across the entire stack — from pixel-perfect UIs to robust APIs and databases — with a focus on code that is fast, maintainable, and solves real problems.
-
-- 🔭 Currently building at **[levise.top](https://www.levise.top/)**
-- 🌍 Based in **Nairobi, Kenya** — open to remote & hybrid roles worldwide
-- 💬 Ask me about **Next.js, TypeScript, Node.js, React, Flutter**
-- 📄 [Download my CV](https://www.levise.top/)
-- ⚡ 50+ projects delivered across fintech, SaaS, and e-commerce
-
----
-
-### Tech Stack
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
-
-**Tools & Platforms**
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-### GitHub Stats
+# 👋 Hi, I'm Levis Nyingi
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=levis-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Levis GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levis-creator&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top languages" />
+<strong>Full-Stack Developer · Nairobi, Kenya</strong><br>
+Building scalable web & mobile apps
+</p>
+
+<p align="center">
+<a href="https://www.levise.top"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.levise.top/blog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/levisnyingi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:levis.nyingi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### Latest Blog Posts
+# 🚀 About Me
 
-<!-- These update automatically if you set up a GitHub Action — see note below -->
+💻 Full-stack developer with **5+ years experience** building production applications.
 
-- 📝 [Read all articles →](https://www.levise.top/blog)
+⚡ I design **fast, scalable, and maintainable software** across the entire stack.
+
+🌍 Based in **Nairobi, Kenya** — open to **remote roles worldwide**
+
+📦 **50+ projects delivered** across SaaS, fintech, and e-commerce.
+
+### Currently
+
+- 🔭 Building projects at **https://www.levise.top**
+- 📚 Writing technical articles
+- 🚀 Exploring **cloud architecture & scalable systems**
 
 ---
 
-### Let's Work Together
+# 🧰 Tech Stack
 
-I'm open to **full-time roles**, **contract work**, and **freelance projects** — remote or in Nairobi.
+### Frontend
 
 <p>
-  <a href="https://www.levise.top/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:levis.nyingi@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,flutter,vue,angular" />
 </p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,python,dotnet,java,spring" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,linux" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=levis-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levis-creator&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=levis-creator&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# ✍️ Latest Blog Posts
+
+📝 Read articles on my blog:
+
+➡️ **https://www.levise.top/blog**
+
+---
+
+# 🤝 Let's Work Together
+
+I'm available for:
+
+✔ Full-time roles  
+✔ Freelance projects  
+✔ Contract development  
+✔ Technical consulting  
+
+<p align="center">
+<a href="https://www.levise.top">
+<img src="https://img.shields.io/badge/View_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:levis.nyingi@gmail.com">
+<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=levis-creator&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0A66C2&height=120&section=footer"/>
 </p>
